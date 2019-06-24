@@ -1,0 +1,13 @@
+{
+  "name": "@ctxify/moment",
+  "version": "1.0.0",
+  "description": "Access a date string from the context and convert to desired format via moment.js",
+  "main": "ctxifymoment.js",
+  "repository": "https://github.com/jazzyjackson/ctxifymoment.git",
+  "author": "Colten Jackson <jazzyjackson@gmail.com>",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "@ctxify/dotaccess": "^1.0.0",
+    "moment": "^2.24.0"
+  }
+}
